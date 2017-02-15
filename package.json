@@ -1,0 +1,24 @@
+{
+  "name": "abortable-promise",
+  "version": "1.0.0",
+  "description": "abortable promise, also support timeout",
+  "main": "AbortablePromise.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bestofsong/abortable-promise.git"
+  },
+  "keywords": [
+    "javascript",
+    "promise",
+    "abortable"
+  ],
+  "author": "wansong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bestofsong/abortable-promise/issues"
+  },
+  "homepage": "https://github.com/bestofsong/abortable-promise#readme"
+}
