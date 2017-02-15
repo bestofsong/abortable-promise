@@ -1,2 +1,2 @@
-import { makePromise } from './AbortablePromise';
+import makePromise from './AbortablePromise';
 export default makePromise;
